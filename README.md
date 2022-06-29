@@ -1,7 +1,7 @@
 <h1>Face-Recognition-Login-Registration-Using-Python-AI-Flask</h1>
 <h4>This web application is basically a system which uses face recognition to login to any account. People can use this login application for various websites or web applications. It also has provision for registering face for new entries. 
 </h4>
-<h2>Preview</h2>
+
 <h2>Tools & Libraries Used</h2>
 <ul>
 <li><b>Python - face_recognition</b> - https://github.com/ageitgey/face_recognition</li>
