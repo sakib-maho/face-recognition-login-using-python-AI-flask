@@ -1,3 +1,7 @@
+# Copyright (c) 2025 sakib-maho
+# Licensed under the MIT License
+# See LICENSE file for details
+
 from flask import Flask, render_template, request, url_for, redirect, Blueprint, send_from_directory
 from flask_wtf import FlaskForm
 from wtforms.fields import StringField, SubmitField

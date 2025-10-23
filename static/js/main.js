@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2025 sakib-maho
+ * Licensed under the MIT License
+ * See LICENSE file for details
+ */
+
 let video = document.getElementById("video");
 let canvas = document.getElementById("myCanvas");
 let ctx = canvas.getContext('2d');
